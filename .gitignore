@@ -1,0 +1,17 @@
+# Environment variables (DATABASE_URL, passwords)
+.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Node / React
+node_modules/
+dist/
+
+# OS files
+.DS_Store
